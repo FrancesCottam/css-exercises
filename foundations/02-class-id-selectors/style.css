@@ -2,19 +2,19 @@
    
 .class1
 {
-    background-color: rgb(255, 0, 221);font-size: 36px; font-family: Verdana, Geneva, Tahoma, sans-serif;font-weight:200
+    background-color: rgb(233, 159, 240) ; font-family: Verdana, Geneva, Tahoma, sans-serif;font-weight:bold
 }
 .class2
 {
-    background-color: rgb(255, 0, 221);font-size: 52px; font-family: Verdana, Geneva, Tahoma, sans-serif;font-weight:200
+    background-color: rgb(233, 159, 240);font-size: 52px; font-family: Verdana, Geneva, Tahoma, sans-serif;font: weight 300px;
 }
 #element2
 {
-    background-color: whitesmoke;color: #000;font-size: 36px;
+    color: blue;font-size: 36px;
 }    
 
 #element4 
 {
-    background-color: pink ;color: green;font: size 38px; font-family:Verdana
+    background-color: rgb(187, 223, 173);font: size 38px; font-weight: bold;
 
 }
