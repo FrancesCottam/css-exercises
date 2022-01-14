@@ -1,14 +1,14 @@
 /* styles.css*/
    
-#class1
+.class1
 {
     background-color: cyan;font-size: 36; font-family: Verdana, Geneva, Tahoma, sans-serif;font-weight:200
 }
 #element2 {
-    background-color: cornflowerblue;font 36
+    background-color: cornflowerblue;font-size 52
 }
 #element4 
 {
-    color: green;font-size: 36; font-family:Verdana
+    background-color: pink ;color: green;font-size: 52; font-family:Verdana
 
 }
