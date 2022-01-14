@@ -2,13 +2,16 @@
    
 .class1
 {
-    background-color: cyan;font-size: 36; font-family: Verdana, Geneva, Tahoma, sans-serif;font-weight:200
+    background-color: rgb(255, 0, 221);font-size: 36px; font-family: Verdana, Geneva, Tahoma, sans-serif;font-weight:200
 }
+class2
+{
+    background-color: cyan;font: size 24px; font-family: Verdana, Geneva, Tahoma, sans-serif;font-weight:200
 #element2 {
-    background-color: cornflowerblue;font-size 52
+    background-color: cornflowerblue; color: #000; font: size 32px
 }
 #element4 
 {
-    background-color: pink ;color: green;font-size: 52; font-family:Verdana
+    background-color: pink ;color: green;font: size 38px; font-family:Verdana
 
 }
