@@ -1,10 +1,10 @@
 /*stles.css */
 
-.avatarproportioned
+.avatar.proportioned
 {
 width: 300px; height: auto
 }
-.avatardistorted
+.avatar.distorted
 {
     width: 200px; height: 400px;
 }
