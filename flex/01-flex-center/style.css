@@ -4,7 +4,8 @@
   width: 400px;
   height: 300px;
   display: flex;
-  align-self: center;
+  justify-content: center;
+  align-items: flex-end;
   
 }
 
