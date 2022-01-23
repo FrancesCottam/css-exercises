@@ -35,8 +35,8 @@ body {
   height: 42px;
   border-radius: 50%;
   display: flex;
-  justify-content:center;
-  align-items:center;
+  align-items: center;
+  justify-content: center;
   flex-shrink: 0; 
   
 }
