@@ -6,7 +6,8 @@ body {
 
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: space-around;
+  gap: 52px;
 }
 
 img {
@@ -19,12 +20,12 @@ img {
   font-weight: 900;
   display:flex;
   justify-content: center;
-  padding: 52px  
+  padding: 32px  
 }
 .info, .text{
 display: flex;
-flex-direction: row;
-justify-content:space-between
+flex-direction: column;
+max-width: 200px;word-wrap: normal;
 
 }
 
