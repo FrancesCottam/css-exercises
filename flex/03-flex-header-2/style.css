@@ -16,14 +16,14 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 8px;
-  
-  
 }
-.leftcontainer .rightcontainer{
-  display: flex;
-  align-items: center;
-  gap: 16px;
-}
+  
+  .leftcontainer, .rightcontainer {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  } 
+
   
 .profile-image {
   background: rebeccapurple;
@@ -63,3 +63,4 @@ ul {
   padding:0px;
   gap: 16px;
 }
+
