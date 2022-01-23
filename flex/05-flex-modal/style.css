@@ -21,13 +21,15 @@ body {
   width: 480px;
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
-  padding: 12px;
-  
+  padding: 20px; 
 }
-.header, .icon, .close-button{
-display:flex;
-align-items: flex-start;
-justify-content: space-evenly;
+.container {
+  display:flex;
+  align-items: flex-start;
+  justify-content: space-evenly;
+  font-size: large;
+  font-weight: bold;
+  text-align: justify;
 }
 .icon {
   color: royalblue;
@@ -38,6 +40,8 @@ justify-content: space-evenly;
   height: 42px;
   border-radius: 50%;
   display: flex;
+  justify-content: center;
+  align-items: center;
   
   
 }
