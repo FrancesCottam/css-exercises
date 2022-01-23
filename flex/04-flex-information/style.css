@@ -26,6 +26,7 @@ img {
 display: flex;
 flex-direction: column;
 max-width: 200px;word-wrap: normal;
+text-align: center;
 
 }
 
