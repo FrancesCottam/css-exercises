@@ -26,7 +26,7 @@ body {
 .container {
   display:flex;
   align-items: flex-start;
-  justify-content: space-evenly;
+  justify-content:stretch;
   font-size: large;
   font-weight: bold;
   text-align: justify;
@@ -40,8 +40,8 @@ body {
   height: 42px;
   border-radius: 50%;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content:center;
+  align-items:center ;
   
   
 }
