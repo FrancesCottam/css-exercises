@@ -24,7 +24,11 @@ body {
   padding: 12px;
   
 }
-
+.header, .icon, .close-button{
+display:flex;
+align-items: flex-start;
+justify-content: space-evenly;
+}
 .icon {
   color: royalblue;
   font-size: 26px;
@@ -34,8 +38,8 @@ body {
   height: 42px;
   border-radius: 50%;
   display: flex;
-  align-items: center;
-  justify-content: center;
+  
+  
 }
 
 .close-button {
@@ -46,9 +50,7 @@ body {
   font-size: 16px;
   height: 24px;
   width: 24px;
-  display: flex;
-  align-items: flex-start;
-  justify-content: flex-end;
+  
 }
 
 button {
