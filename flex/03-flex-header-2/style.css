@@ -20,13 +20,14 @@ body {
 }
 .leftcontainer {
   display: flex;
-  justify-content:flex-start;
-  
+  flex: 01;
+  gap: 8px;
 }
 
 .rightcontainer {
   display: flex;
   justify-content:flex-end;
+  gap: 8px;
   
 }
 .profile-image {
