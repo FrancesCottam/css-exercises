@@ -5,10 +5,14 @@ body {
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
+  display: flex;
+  justify-content: space-around;
 }
 
 img {
   width: 600px;
+  display: flex;
+  
 }
 
 button {
@@ -24,4 +28,11 @@ input {
   padding: 8px 24px;
   width: 400px;
   margin-bottom: 16px;
+}
+.content {
+  display: flex;
+  flex-direction:column;
+  align-content: center;
+  justify-content: center;
+  
 }
